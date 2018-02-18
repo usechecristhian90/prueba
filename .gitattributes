@@ -1,5 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,7 +12,8 @@ Skype: usechecristhian90@gmail.com <br>
 Celular: 3138770785 <br>
 Atentamente <br>
 Cristhian andrey useche <br>
-
+Auto detect text files and perform LF normalization
+text=auto
 </b>
 </p>
 </body>
